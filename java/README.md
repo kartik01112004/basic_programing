@@ -2,14 +2,14 @@
 
 ## Data Types
 
-1.byte<br>
-1.long<br>
-1.short<br>
-1.int<br>
-1.float<br>
-1.double<br>
-1.char<br>
-1.boolen<br>
+1. byte<br>
+1. long<br>
+1. short<br>
+1. int<br>
+1. float<br>
+1. double<br>
+1. char<br>
+1. boolen<br>
 
 ## Operators
 
